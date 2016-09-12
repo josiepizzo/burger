@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/josiepizzo/burger"
   },
-  "author": "",
+  "author": "Josephine Pizzolato",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.14.2",
